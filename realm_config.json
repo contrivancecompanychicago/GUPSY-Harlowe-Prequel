@@ -1,0 +1,9 @@
+{
+    "app_id": "dovichousesimenv-jcyda",
+    "config_version": 20210101,
+    "name": "DOVICHouseSimEnv",
+    "location": "US-VA",
+    "provider_region": "gcp-us-east4",
+    "deployment_model": "LOCAL",
+    "environment": "development"
+}
